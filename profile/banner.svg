@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="t d">
+  <title id="t">Chromatin and Aging Research Lab (CARL)</title>
+  <desc id="d">Banner for the Chromatin and Aging Research Lab at the Hebrew University of Jerusalem: a chromatin strand of nucleosomes that fades from young to aged.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#140d24"/>
+      <stop offset="0.55" stop-color="#231438"/>
+      <stop offset="1" stop-color="#2e1a2c"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff9e6b"/>
+      <stop offset="1" stop-color="#c58bff"/>
+    </linearGradient>
+    <linearGradient id="dna" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffb37a" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#9a8fb0" stop-opacity="0.35"/>
+    </linearGradient>
+    <radialGradient id="bead" cx="0.38" cy="0.35" r="0.7">
+      <stop offset="0" stop-color="#ffe2c4"/>
+      <stop offset="0.45" stop-color="#ff8f5a"/>
+      <stop offset="1" stop-color="#8e3b6e"/>
+    </radialGradient>
+    <radialGradient id="halo" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ff9e6b" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#ff9e6b" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow" cx="0.78" cy="0.45" r="0.55">
+      <stop offset="0" stop-color="#c58bff" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#c58bff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="360" rx="18" fill="url(#bg)"/>
+  <rect width="1280" height="360" rx="18" fill="url(#grid)"/>
+  <rect width="1280" height="360" rx="18" fill="url(#glow)"/>
+
+  <!-- chromatin fibre: DNA wrapped around nucleosomes, fading with "age" -->
+  <path d="M700.0 180.0 L701.3 181.7 L702.6 183.5 L703.9 185.2 L705.2 186.9 L706.5 188.6 L707.8 190.3 L709.1 192.0 L710.4 193.6 L711.7 195.2 L713.0 196.8 L714.3 198.3 L715.6 199.8 L716.9 201.2 L718.2 202.6 L719.5 204.0 L720.8 205.2 L722.1 206.5 L723.4 207.7 L724.7 208.8 L726.0 209.9 L727.3 210.9 L728.6 211.8 L729.9 212.7 L731.2 213.5 L732.5 214.3 L733.8 214.9 L735.1 215.6 L736.4 216.1 L737.7 216.7 L739.0 217.1 L740.3 217.5 L741.6 217.8 L742.9 218.1 L744.2 218.3 L745.5 218.5 L746.8 218.6 L748.1 218.7 L749.4 218.7 L750.7 218.7 L752.0 218.7 L753.3 218.6 L754.6 218.5 L755.9 218.4 L757.2 218.2 L758.5 218.0 L759.8 217.8 L761.1 217.6 L762.4 217.3 L763.7 217.1 L765.0 216.8 L766.3 216.6 L767.6 216.3 L768.9 216.1 L770.2 215.8 L771.5 215.6 L772.8 215.3 L774.1 215.1 L775.4 214.9 L776.7 214.7 L778.0 214.5 L779.3 214.4 L780.6 214.3 L781.9 214.2 L783.2 214.1 L784.5 214.0 L785.8 214.0 L787.1 214.0 L788.4 214.0 L789.7 214.1 L791.0 214.1 L792.3 214.2 L793.6 214.4 L794.9 214.5 L796.2 214.7 L797.5 214.8 L798.8 215.0 L800.1 215.3 L801.4 215.5 L802.7 215.7 L804.0 216.0 L805.3 216.2 L806.6 216.5 L807.9 216.7 L809.2 217.0 L810.5 217.2 L811.8 217.5 L813.1 217.7 L814.4 217.9 L815.7 218.1 L817.0 218.3 L818.3 218.5 L819.6 218.6 L820.9 218.7 L822.2 218.7 L823.5 218.7 L824.8 218.7 L826.1 218.7 L827.4 218.5 L828.7 218.4 L830.0 218.2 L831.3 217.9 L832.6 217.6 L833.9 217.2 L835.2 216.8 L836.5 216.3 L837.8 215.8 L839.1 215.2 L840.4 214.5 L841.7 213.8 L843.0 213.0 L844.3 212.1 L845.6 211.2 L846.9 210.2 L848.2 209.1 L849.5 208.0 L850.8 206.9 L852.1 205.7 L853.4 204.4 L854.7 203.1 L856.0 201.7 L857.3 200.3 L858.6 198.8 L859.9 197.3 L861.2 195.7 L862.5 194.1 L863.8 192.5 L865.1 190.9 L866.4 189.2 L867.7 187.5 L869.0 185.8 L870.3 184.1 L871.6 182.3 L872.9 180.6 L874.2 178.8 L875.5 177.1 L876.8 175.4 L878.1 173.6 L879.4 171.9 L880.7 170.2 L882.0 168.6 L883.3 166.9 L884.6 165.3 L885.9 163.8 L887.2 162.2 L888.5 160.7 L889.8 159.3 L891.1 157.8 L892.4 156.5 L893.7 155.2 L895.0 153.9 L896.3 152.7 L897.6 151.6 L898.9 150.5 L900.2 149.5 L901.5 148.5 L902.8 147.6 L904.1 146.8 L905.4 146.0 L906.7 145.3 L908.0 144.6 L909.3 144.0 L910.6 143.5 L911.9 143.0 L913.2 142.6 L914.5 142.3 L915.8 142.0 L917.1 141.7 L918.4 141.6 L919.7 141.4 L921.0 141.3 L922.3 141.3 L923.6 141.3 L924.9 141.3 L926.2 141.4 L927.5 141.5 L928.8 141.6 L930.1 141.8 L931.4 141.9 L932.7 142.1 L934.0 142.4 L935.3 142.6 L936.6 142.8 L937.9 143.1 L939.2 143.3 L940.5 143.6 L941.8 143.9 L943.1 144.1 L944.4 144.4 L945.7 144.6 L947.0 144.8 L948.3 145.0 L949.6 145.2 L950.9 145.4 L952.2 145.6 L953.5 145.7 L954.8 145.8 L956.1 145.9 L957.4 145.9 L958.7 146.0 L960.0 146.0 L961.3 146.0 L962.6 145.9 L963.9 145.9 L965.2 145.8 L966.5 145.7 L967.8 145.6 L969.1 145.4 L970.4 145.2 L971.7 145.0 L973.0 144.8 L974.3 144.6 L975.6 144.4 L976.9 144.1 L978.2 143.9 L979.5 143.6 L980.8 143.3 L982.1 143.1 L983.4 142.8 L984.7 142.6 L986.0 142.4 L987.3 142.1 L988.6 141.9 L989.9 141.8 L991.2 141.6 L992.5 141.5 L993.8 141.4 L995.1 141.3 L996.4 141.3 L997.7 141.3 L999.0 141.3 L1000.3 141.4 L1001.6 141.6 L1002.9 141.7 L1004.2 142.0 L1005.5 142.3 L1006.8 142.6 L1008.1 143.0 L1009.4 143.5 L1010.7 144.0 L1012.0 144.6 L1013.3 145.3 L1014.6 146.0 L1015.9 146.8 L1017.2 147.6 L1018.5 148.5 L1019.8 149.5 L1021.1 150.5 L1022.4 151.6 L1023.7 152.7 L1025.0 153.9 L1026.3 155.2 L1027.6 156.5 L1028.9 157.8 L1030.2 159.3 L1031.5 160.7 L1032.8 162.2 L1034.1 163.8 L1035.4 165.3 L1036.7 166.9 L1038.0 168.6 L1039.3 170.2 L1040.6 171.9 L1041.9 173.6 L1043.2 175.4 L1044.5 177.1 L1045.8 178.8 L1047.1 180.6 L1048.4 182.3 L1049.7 184.1 L1051.0 185.8 L1052.3 187.5 L1053.6 189.2 L1054.9 190.9 L1056.2 192.5 L1057.5 194.1 L1058.8 195.7 L1060.1 197.3 L1061.4 198.8 L1062.7 200.3 L1064.0 201.7 L1065.3 203.1 L1066.6 204.4 L1067.9 205.7 L1069.2 206.9 L1070.5 208.0 L1071.8 209.1 L1073.1 210.2 L1074.4 211.2 L1075.7 212.1 L1077.0 213.0 L1078.3 213.8 L1079.6 214.5 L1080.9 215.2 L1082.2 215.8 L1083.5 216.3 L1084.8 216.8 L1086.1 217.2 L1087.4 217.6 L1088.7 217.9 L1090.0 218.2 L1091.3 218.4 L1092.6 218.5 L1093.9 218.7 L1095.2 218.7 L1096.5 218.7 L1097.8 218.7 L1099.1 218.7 L1100.4 218.6 L1101.7 218.5 L1103.0 218.3 L1104.3 218.1 L1105.6 217.9 L1106.9 217.7 L1108.2 217.5 L1109.5 217.2 L1110.8 217.0 L1112.1 216.7 L1113.4 216.5 L1114.7 216.2 L1116.0 216.0 L1117.3 215.7 L1118.6 215.5 L1119.9 215.3 L1121.2 215.0 L1122.5 214.8 L1123.8 214.7 L1125.1 214.5 L1126.4 214.4 L1127.7 214.2 L1129.0 214.1 L1130.3 214.1 L1131.6 214.0 L1132.9 214.0 L1134.2 214.0 L1135.5 214.0 L1136.8 214.1 L1138.1 214.2 L1139.4 214.3 L1140.7 214.4 L1142.0 214.5 L1143.3 214.7 L1144.6 214.9 L1145.9 215.1 L1147.2 215.3 L1148.5 215.6 L1149.8 215.8 L1151.1 216.1 L1152.4 216.3 L1153.7 216.6 L1155.0 216.8 L1156.3 217.1 L1157.6 217.3 L1158.9 217.6 L1160.2 217.8 L1161.5 218.0 L1162.8 218.2 L1164.1 218.4 L1165.4 218.5 L1166.7 218.6 L1168.0 218.7 L1169.3 218.7 L1170.6 218.7 L1171.9 218.7 L1173.2 218.6 L1174.5 218.5 L1175.8 218.3 L1177.1 218.1 L1178.4 217.8 L1179.7 217.5 L1181.0 217.1 L1182.3 216.7 L1183.6 216.1 L1184.9 215.6 L1186.2 214.9 L1187.5 214.3 L1188.8 213.5 L1190.1 212.7 L1191.4 211.8 L1192.7 210.9 L1194.0 209.9 L1195.3 208.8 L1196.6 207.7 L1197.9 206.5 L1199.2 205.2 L1200.5 204.0 L1201.8 202.6 L1203.1 201.2 L1204.4 199.8 L1205.7 198.3 L1207.0 196.8 L1208.3 195.2 L1209.6 193.6 L1210.9 192.0 L1212.2 190.3 L1213.5 188.6 L1214.8 186.9 L1216.1 185.2 L1217.4 183.5 L1218.7 181.7 L1220.0 180.0" fill="none" stroke="url(#dna)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="translate(715.6 199.8)" opacity="0.95">
+      <circle r="36.0" fill="url(#halo)"/>
+      <circle r="22.0" fill="url(#bead)"/>
+      <ellipse rx="22.0" ry="8.4" fill="none" stroke="#ffd8a8" stroke-opacity="0.55" stroke-width="2" transform="rotate(-25)"/>
+    </g>
+    <g transform="translate(763.7 217.1)" opacity="0.89">
+      <circle r="35.5" fill="url(#halo)"/>
+      <circle r="21.5" fill="url(#bead)"/>
+      <ellipse rx="21.5" ry="8.2" fill="none" stroke="#ffd8a8" stroke-opacity="0.55" stroke-width="2" transform="rotate(-16)"/>
+    </g>
+    <g transform="translate(811.8 217.5)" opacity="0.84">
+      <circle r="35.0" fill="url(#halo)"/>
+      <circle r="21.0" fill="url(#bead)"/>
+      <ellipse rx="21.0" ry="8.0" fill="none" stroke="#ffd8a8" stroke-opacity="0.55" stroke-width="2" transform="rotate(-7)"/>
+    </g>
+    <g transform="translate(859.9 197.3)" opacity="0.78">
+      <circle r="34.5" fill="url(#halo)"/>
+      <circle r="20.5" fill="url(#bead)"/>
+      <ellipse rx="20.5" ry="7.8" fill="none" stroke="#ffd8a8" stroke-opacity="0.55" stroke-width="2" transform="rotate(2)"/>
+    </g>
+    <g transform="translate(908.0 144.6)" opacity="0.73">
+      <circle r="34.0" fill="url(#halo)"/>
+      <circle r="20.0" fill="url(#bead)"/>
+      <ellipse rx="20.0" ry="7.6" fill="none" stroke="#ffd8a8" stroke-opacity="0.55" stroke-width="2" transform="rotate(11)"/>
+    </g>
+    <g transform="translate(956.1 145.9)" opacity="0.67">
+      <circle r="33.5" fill="url(#halo)"/>
+      <circle r="19.5" fill="url(#bead)"/>
+      <ellipse rx="19.5" ry="7.4" fill="none" stroke="#ffd8a8" stroke-opacity="0.55" stroke-width="2" transform="rotate(20)"/>
+    </g>
+    <g transform="translate(1004.2 142.0)" opacity="0.62">
+      <circle r="33.0" fill="url(#halo)"/>
+      <circle r="19.0" fill="url(#bead)"/>
+      <ellipse rx="19.0" ry="7.2" fill="none" stroke="#ffd8a8" stroke-opacity="0.55" stroke-width="2" transform="rotate(29)"/>
+    </g>
+    <g transform="translate(1052.3 187.5)" opacity="0.56">
+      <circle r="32.5" fill="url(#halo)"/>
+      <circle r="18.5" fill="url(#bead)"/>
+      <ellipse rx="18.5" ry="7.0" fill="none" stroke="#ffd8a8" stroke-opacity="0.55" stroke-width="2" transform="rotate(38)"/>
+    </g>
+    <g transform="translate(1100.4 218.6)" opacity="0.51">
+      <circle r="32.0" fill="url(#halo)"/>
+      <circle r="18.0" fill="url(#bead)"/>
+      <ellipse rx="18.0" ry="6.8" fill="none" stroke="#ffd8a8" stroke-opacity="0.55" stroke-width="2" transform="rotate(47)"/>
+    </g>
+    <g transform="translate(1148.5 215.6)" opacity="0.45">
+      <circle r="31.5" fill="url(#halo)"/>
+      <circle r="17.5" fill="url(#bead)"/>
+      <ellipse rx="17.5" ry="6.7" fill="none" stroke="#ffd8a8" stroke-opacity="0.55" stroke-width="2" transform="rotate(56)"/>
+    </g>
+    <g transform="translate(1196.6 207.7)" opacity="0.40">
+      <circle r="31.0" fill="url(#halo)"/>
+      <circle r="17.0" fill="url(#bead)"/>
+      <ellipse rx="17.0" ry="6.5" fill="none" stroke="#ffd8a8" stroke-opacity="0.55" stroke-width="2" transform="rotate(65)"/>
+    </g>
+  <text x="712" y="336" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#ffb37a" fill-opacity="0.8" letter-spacing="2">YOUNG</text>
+  <text x="1216" y="336" text-anchor="end" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#9a8fb0" letter-spacing="2">AGED</text>
+
+  <g font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+    <text x="66" y="80" fill="#b9a6d8" font-size="16" letter-spacing="4" font-weight="600">THE HEBREW UNIVERSITY OF JERUSALEM</text>
+    <text x="64" y="146" fill="#ffffff" font-size="54" font-weight="700" letter-spacing="-1">Chromatin and Aging</text>
+    <text x="64" y="204" fill="#ffffff" font-size="54" font-weight="300" letter-spacing="-1">Research Lab</text>
+    <rect x="66" y="224" width="120" height="4" rx="2" fill="url(#accent)"/>
+    <text x="64" y="262" fill="#e4d9f2" font-size="20">How chromatin changes as cells age, and what that means for health</text>
+    <g transform="translate(64 288)" font-size="14" font-weight="600">
+      <rect x="0" width="159" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#ff9e6b" stroke-opacity="0.6"/>
+      <text x="80" y="20" text-anchor="middle" fill="#ffe6d6">Epigenetic aging</text>
+      <rect x="169" width="151" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#ff9e6b" stroke-opacity="0.6"/>
+      <text x="245" y="20" text-anchor="middle" fill="#ffe6d6">Oocytes &amp; sperm</text>
+      <rect x="330" width="135" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#e08fd0" stroke-opacity="0.6"/>
+      <text x="398" y="20" text-anchor="middle" fill="#fbe0f5">Oral immunity</text>
+      <rect x="475" width="143" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#c58bff" stroke-opacity="0.6"/>
+      <text x="546" y="20" text-anchor="middle" fill="#efe2ff">Yeast survival</text>
+    </g>
+  </g>
+</svg>
